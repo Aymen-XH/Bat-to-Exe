@@ -46,7 +46,7 @@ The app includes all necessary dependencies.
 ![Screenshot](./Screenshot.png)
 
 
-
+---
 ✨ Happy converting! Let your scripts shine (or hide) as EXEs! 🚀
 
 
